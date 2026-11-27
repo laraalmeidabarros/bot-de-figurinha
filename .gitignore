@@ -1,0 +1,5 @@
+node_modules/
+# Sessão do WhatsApp: quem tiver essa pasta acessa a conta. NUNCA suba para o GitHub.
+.wwebjs_auth/
+.wwebjs_cache/
+.env
